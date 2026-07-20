@@ -8,7 +8,7 @@ const StoreContextProvider = (props) => {
 
 
     const [cartItems, setCardItems] = useState({});
-    const url = "http://localhost:4000";
+    const url = "https://food-delivery-application-wprn.onrender.com";
     const [token,setToken] =useState("");
     const [food_list,setFoodList] = useState([]);
     
