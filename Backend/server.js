@@ -40,7 +40,7 @@ app.get("/",(req,res)=>{
 app.listen(port,()=>{
 
     
-    console.log(`server is running on http://localhost:${port}`)
+    console.log(`server is running on https://food-delivery-application-sigma.vercel.app/`)
     
 })
 
